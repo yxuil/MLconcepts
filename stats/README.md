@@ -113,7 +113,8 @@
 </details>
 </details>
 
-<details> <summary><h2>Advanced Statistics</h2></summary>
+<h2>Advanced Statistics</h2>
+<details> <summary></summary>
 <details>
   <summary>Q-Q Plot </summary>
   TODO: 
