@@ -2,21 +2,60 @@
 <details>
   <summary>Introduction to Basic Concepts</summary>
   TODO: add basic concepts / terms
-  </details>
-  
-- Variables
-- Random Vairables
-- Population, Sample, Population Mean, Sample Mean
-- Population Distribution, Sample Distribution, and Sampling Distribution
-- Mean, Median, Mode
-- Rnage
-- Measure of Dispersion
-- Variance
-- Standard Deviation
-- Gaussian / Normal Distribution
+</details>
+<details>
+  <summary>Variables</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Random Vairables
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Population, Sample, Population Mean, Sample Mean
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Population Distribution, Sample Distribution, and Sampling Distribution
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Mean, Median, Mode
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Rnage
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Measure of Dispersion
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Variance
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Standard Deviation
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Gaussian / Normal Distribution</summary>
+  TODO: 
+</details>
 
 ## Intermediate Statistics
-- Standard Normal Distribution
+
+<details>
+  <summary>Standard Normal Distribution
 - Z score
 - Probability Density Function
 - Cumulative distribution Function
