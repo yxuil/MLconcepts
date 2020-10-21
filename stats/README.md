@@ -94,66 +94,57 @@
   TODO: 
 </details>
 <details>
-  <summary>Coveariance
-</summary>
+  <summary>Coveariance</summary>
   TODO: 
 </details>
 <details>
-  <summary>Pearson Correlation Coefficient
-</summary>
+  <summary>Pearson Correlation Coefficient</summary>
   TODO: 
 </details>
 <details>
-  <summary>Spearman Rank Correlation
-</summary>
+  <summary>Spearman Rank Correlation</summary>
   TODO: 
 </details>
 <details>
-  <summary>Hypothesis Testing
- </summary>
+  <summary>Hypothesis Testing</summary>
   TODO: 
 </details>
+
  ## Advanced Statistics
 
 <details>
-  <summary>Q-Q Plot
- </summary>
+  <summary>Q-Q Plot </summary>
   TODO: 
 </details>
 <details>
-  <summary>Chebyshev's Inequality
- </summary>
+  <summary>Chebyshev's Inequality </summary>
   TODO: 
 </details>
 <details>
-  <summary>Discrete and Continuous Distribution
- </summary>
+  <summary>Discrete and Continuous Distribution </summary>
   TODO: 
 </details>
 <details>
-  <summary>Bernoulli and Binomial Distribution
- </summary>
+  <summary>Bernoulli and Binomial Distribution </summary>
   TODO: 
 </details>
 <details>
-  <summary>Log Normal Distribution
- </summary>
+  <summary>Log Normal Distribution </summary>
   TODO: 
 </details>
 <details>
-  <summary>Power Law Distribution
- </summary>
+  <summary>Power Law Distribution </summary>
   TODO: 
 </details>
 <details>
-  <summary>Box Cox Transform
- </summary>
+  <summary>Box Cox Transform </summary>
   TODO: 
 </details>
 <details>
-  <summary>Poisson Distribution
- </summary>
+  <summary>Poisson Distribution </summary>
   TODO: 
 </details>
 <details>
-  <summary>Application of Non Gaussian Distribution
+  <summary>Application of Non Gaussian Distribution</summary>
+  TODO: 
+</details>
