@@ -1,7 +1,6 @@
 ## Probability Basics
-- Introduction to Basic Concepts
 <details>
-  <summary>Expand concepts</summary>
+  <summary>Introduction to Basic Concepts</summary>
   TODO: add basic concepts / terms
   </details>
   
