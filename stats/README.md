@@ -53,7 +53,7 @@
 
 ## Intermediate Statistics
 
-<details>
+<details><summary></summary>
 <details>
   <summary>Standard Normal Distribution</summary>
   TODO: 
