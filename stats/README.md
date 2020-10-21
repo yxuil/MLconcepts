@@ -50,8 +50,10 @@
   TODO: 
 </details>
 
+
 ## Intermediate Statistics
 
+<details>
 <details>
   <summary>Standard Normal Distribution</summary>
   TODO: 
@@ -108,6 +110,7 @@
 <details>
   <summary>Hypothesis Testing</summary>
   TODO: 
+</details>
 </details>
 
  ## Advanced Statistics
