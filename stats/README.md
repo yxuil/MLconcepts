@@ -4,6 +4,7 @@
   <summary>Expand concepts</summary>
   TODO: add basic concepts / terms
   </details>
+  
 - Variables
 - Random Vairables
 - Population, Sample, Population Mean, Sample Mean
