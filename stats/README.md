@@ -56,26 +56,110 @@
 
 <details>
   <summary>Standard Normal Distribution
-- Z score
-- Probability Density Function
-- Cumulative distribution Function
-- Hypothese Testing
-- Many different plotting graphs
-- Kernel Density Estimation
-- Central Limit Theorem
-- Skewness of Data
-- Coveariance
-- Pearson Correlation Coefficient
-- Spearman Rank Correlation
-- Hypothesis Testing
-
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Z score
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Probability Density Function
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Cumulative distribution Function
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary> Hypothese Testing
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Many different plotting graphs
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Kernel Density Estimation
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Central Limit Theorem
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Skewness of Data
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Coveariance
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Pearson Correlation Coefficient
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Spearman Rank Correlation
+</summary>
+  TODO: 
+</details>
+<details>
+  <summary>Hypothesis Testing
+ </summary>
+  TODO: 
+</details>
  ## Advanced Statistics
- - Q-Q Plot
- - Chebyshev's Inequality
- - Discrete and Continuous Distribution
- - Bernoulli and Binomial Distribution
- - Log Normal Distribution
- - Power Law Distribution
- - Box Cox Transform
- - Poisson Distribution
- - Application of Non Gaussian Distribution
+
+<details>
+  <summary>Q-Q Plot
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Chebyshev's Inequality
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Discrete and Continuous Distribution
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Bernoulli and Binomial Distribution
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Log Normal Distribution
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Power Law Distribution
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Box Cox Transform
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Poisson Distribution
+ </summary>
+  TODO: 
+</details>
+<details>
+  <summary>Application of Non Gaussian Distribution
