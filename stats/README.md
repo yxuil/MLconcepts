@@ -113,8 +113,7 @@
 </details>
 </details>
 
- ## Advanced Statistics
-
+<details> <summary><h2>Advanced Statistics</h2></summary>
 <details>
   <summary>Q-Q Plot </summary>
   TODO: 
@@ -150,4 +149,5 @@
 <details>
   <summary>Application of Non Gaussian Distribution</summary>
   TODO: 
+</details>
 </details>
