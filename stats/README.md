@@ -33,8 +33,7 @@
   TODO: 
 </details>
 <details>
-  <summary> Measure of Dispersion
-</summary>
+  <summary> Measure of Dispersion</summary>
   TODO: 
 </details>
 <details>
@@ -43,8 +42,7 @@
   TODO: 
 </details>
 <details>
-  <summary> Standard Deviation
-</summary>
+  <summary> Standard Deviation</summary>
   TODO: 
 </details>
 <details>
@@ -55,23 +53,19 @@
 ## Intermediate Statistics
 
 <details>
-  <summary>Standard Normal Distribution
-</summary>
+  <summary>Standard Normal Distribution</summary>
   TODO: 
 </details>
 <details>
-  <summary> Z score
-</summary>
+  <summary> Z score</summary>
   TODO: 
 </details>
 <details>
-  <summary> Probability Density Function
-</summary>
+  <summary> Probability Density Function</summary>
   TODO: 
 </details>
 <details>
-  <summary> Cumulative distribution Function
-</summary>
+  <summary> Cumulative distribution Function</summary>
   TODO: 
 </details>
 <details>
